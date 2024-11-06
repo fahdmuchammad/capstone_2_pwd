@@ -7,4 +7,7 @@
   >- Cleaning Data
   >- EDA (9 items), 2 univariate, 7 Bivariate
   >- Statistical Analyst
+  >
+  
+  
 > The Data Cleaning very High remove > 3000 Data
